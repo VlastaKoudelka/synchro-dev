@@ -5,7 +5,7 @@ Welcome to Synchro documentation!
 
 **Why** is the synchronization so important? Due to random delays occuring due to technical reasons the stimuly presented to the subject are jittery. Typpically, the signal of brain evoked activity measured by EEG is getting lost.
 
-![image](/source/jitterMatters.png)
+![image](images/jitterMatters.png)
 
 Check out the :doc:`usage` section for further information, including
 how to :ref:`installation` the project.
