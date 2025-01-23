@@ -10,16 +10,13 @@ Welcome to Synchro documentation!
 
 **How** do we approach the problem? The SYNCHRO is an open-source hardware and software solution that enables application-independent functionality, regardless of the operating system or presentation software. To date, the SYNCHRO is capable of:
 
-.. note::
-
-Lab Streaming Layer compatible interface						         ✓	
-User interface based on touchscreen and configurable profiles	   ✓
-cross-platform design, TTL outputs for LSL incompatible devices	✓
-validation for event related potential (ERP) based applications	✓
-tested on laboratory and wearable EEG devices					      ✓
-ECI protocol (Magstim-Egi)						                        ✓
-Remote control									                           ✓
-
+* Lab Streaming Layer compatible interface						         ✓	
+* User interface based on touchscreen and configurable profiles	   ✓
+* cross-platform design, TTL outputs for LSL incompatible devices	✓
+* validation for event related potential (ERP) based applications	✓
+* tested on laboratory and wearable EEG devices					      ✓
+* ECI protocol (Magstim-Egi)						                        ✓
+* Remote control									                           ✓
 
 Check out the :doc:`usage` section for further information, including
 how to :ref:`installation` the project.
