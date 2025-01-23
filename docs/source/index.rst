@@ -10,6 +10,9 @@ Welcome to Synchro documentation!
 
 **How** do we approach the problem? The SYNCHRO is an open-source hardware and software solution that enables application-independent functionality, regardless of the operating system or presentation software. To date, the SYNCHRO is capable of:
 
+.. figure::  images/SYNCHRO.png
+   :align:   center
+
 * Lab Streaming Layer compatible interface						         ✓	
 * User interface based on touchscreen and configurable profiles	   ✓
 * cross-platform design, TTL outputs for LSL incompatible devices	✓
