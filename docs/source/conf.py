@@ -22,5 +22,6 @@ templates_path = ['_templates']
 
 html_theme = 'sphinx_rtd_theme'
 html_logo = 'images/logoPing.png'
+html_static_path = ['_static']
 # -- Options for EPUB output
 epub_show_urls = 'footnote'

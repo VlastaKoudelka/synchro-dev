@@ -30,7 +30,8 @@ Jitter Matters
 *Jitter Matters: A Game for Reproducible EEG* shows in a simple game how much
 information is lost when technical jitter is introduced. You tap your finger
 in a steady rhythm; the steadier the rhythm, the clearer the auditory
-steady-state response. It was presented at the NBT forum in Berlin.
+steady-state response. It was presented at the NBT forum in Berlin. You can
+play it in the browser: :doc:`jitter-matters`.
 
 .. figure:: images/jitterMatters.png
    :align: center
