@@ -1,9 +1,17 @@
-Template for the Read the Docs tutorial
-=======================================
+Synchro
+=======
 
-This GitHub template includes fictional Python library
-with some basic Sphinx docs.
+Open-source device for precise event synchronization in EEG research and
+brain-computer interface applications (Raspberry Pi 4, LSL, ECI, TTL).
 
-Read the tutorial here:
+The documentation lives in ``docs/`` and is built with Sphinx:
 
-https://docs.readthedocs.io/en/stable/tutorial/
+.. code-block:: console
+
+   $ pip install -r docs/requirements.txt
+   $ sphinx-build -b html docs/source docs/_build/html
+
+Hardware schematics and PCB layouts are not published yet.
+
+Supported by the Technology Agency of the Czech Republic, programme GAMA,
+grant no. TP01010062.

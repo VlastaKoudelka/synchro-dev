@@ -154,3 +154,16 @@ dmypy.json
 cython_debug/
 
 # End of https://www.toptal.com/developers/gitignore/api/python,jupyternotebooks
+
+### Unpublished hardware design files - keep local only ###
+src/
+private/
+*.kicad_pcb
+*.kicad_sch
+*.sch
+*.brd
+*.gbr
+*.gtl
+*.gbl
+*.drl
+*-bom.csv
